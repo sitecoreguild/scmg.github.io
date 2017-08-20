@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to the Sitecore Commerce Mentoring Guild!
 
-You can use the [editor on GitHub](https://github.com/sitecoreguild/scmg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Feel free to add documentation, links and sample source to help others get started with Sitecore Commerce however be aware when sharing that this is a public repository so please do not share any information that is protected under NDA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This WIKI follows the Read, Watch, Create methodology:
 
-### Markdown
+1. [Read](/sitecoreguild/scmg/wiki/1%20Read) - Read some articles to get familiar with the technology.
+2. [Watch](/sitecoreguild/scmg/wiki/2%20Watch) - Watch some videos to visualize it.
+3. [Create](/sitecoreguild/scmg/wiki/3%20Create) - Create something to apply the knowledge.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Sitecore Commerce Mentoring Guild is available on other platforms at: 
 
-```markdown
-Syntax highlighted code block
+* [Facebook Page](https://www.facebook.com/Sitecore-Commerce-Mentoring-Guild-432018193860753/)
+This page provides a news feed of what is going on with the Guild. 
+* [Facebook Group](https://www.facebook.com/groups/SitecoreCommerceGuild/)
+This group allows us to share marketing and technical discussion, ask question, share information.
+* [LinkedIn Group](https://www.linkedin.com/groups/12057633)
+This group provides a news feed of what is going on with the Guild as well as a Job Board for recruiters and hiring managers to make job posts available.
+* [Slack Channel](https://sitecorechat.slack.com/messages/C2A8KG815/)
+This channel is about everything commerce including Sitecore Commerce. This channel was created by Mike Reynolds and we will be active in this group so any Sitecore Commerce questions that need more immediate answers this is the place to ask.
+* [StackExchange](https://sitecore.stackexchange.com/search?q=sitecore+commerce) Tag any questions with Sitecore Commerce or search for answers here. 
 
-# Header 1
-## Header 2
-### Header 3
+Let's help each other grow in knowledge of Sitecore Commerce and share higher quality and successful implementations of Sitecore Commerce.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sitecoreguild/scmg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Chris Williams and Eric Stafford
